@@ -10,4 +10,4 @@ const connectDB = async () => {
   }
 };
 
-module.exports = connectDB; // ✅ CommonJS export
+module.exports = connectDB; //CommonJS export
