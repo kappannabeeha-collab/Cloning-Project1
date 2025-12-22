@@ -71,4 +71,43 @@ This clone is built **from scratch** for learning purposes only. No proprietary 
 ---
 
 ## Project Structure
+boat-clone/
+├── client/ # Frontend (React)
+├── server/ # Backend (Express)
+├── docs/ # Wireframes & documentation
+└── README.md
+
+
+---
+
+## Git Workflow
+- `main` branch always contains stable code
+- Feature-based branches are used for development
+- No direct commits to `main`
+- All changes are merged via pull requests
+
+---
+
+## Timeline
+**Total Duration:** 10 Days
+
+| Day | Task |
+|----|----|
+| Day 1 | Planning, wireframes, setup |
+| Day 2 | Homepage UI |
+| Day 3 | Backend setup & product APIs |
+| Day 4 | Product listing page |
+| Day 5 | Product detail page |
+| Day 6 | Authentication |
+| Day 7 | Cart functionality |
+| Day 8 | Checkout UI |
+| Day 9 | Bug fixes & responsiveness |
+| Day 10 | Final testing & demo |
+
+---
+
+## Ethical Disclaimer
+This project is strictly for **educational purposes**.  
+All branding, design inspiration, and product references belong to **boAt Lifestyle**.
+
 
